@@ -20,7 +20,7 @@ env:
 
 jobs:
   Build:
-    runs-on: Ubuntu 24.04 LTS
+    runs-on: Ubuntu 24.04
 
     steps:
     - name: Check Server Performance
